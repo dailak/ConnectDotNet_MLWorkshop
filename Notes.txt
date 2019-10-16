@@ -1,0 +1,6 @@
+Notes
+1. Turing Test & AI
+A system passes the Turing test if interacting with it is indistinguishable from interacting with a computer
+The goal of ML is to mimic human response but not human intelligent without being explicitly programmed
+Example - Snowing or Raining based on temperature
+Example - Iris Flowers dataset
